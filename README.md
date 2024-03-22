@@ -1,5 +1,5 @@
 # SGPDocker
-Project template to run Spring Boot app, Prometheus server, Grafana server in separate Dockert containers via docker compose.
+Project template to run Spring Boot app, Prometheus server, Grafana server in separate Docker containers via docker compose.
 
 1. docker compose up
 2. Configure datasource in grafana to ptomethues using prometheus service host name http://prometheus:9090/
